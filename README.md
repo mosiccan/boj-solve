@@ -1,1 +1,1 @@
-# boj_solve
+# boj-solve
